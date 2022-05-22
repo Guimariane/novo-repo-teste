@@ -1,3 +1,2 @@
-# novo-repo-teste
-Um repositório para teste de git
-Oi :)
+# Teste
+Este é um repositório criado em aula para treinar
